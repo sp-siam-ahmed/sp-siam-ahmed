@@ -1,6 +1,6 @@
 # 👨‍💻 Sp Siam Ahmed | Full Stack Web Developer
 
-![Profile Banner](https://example.com/banner-image.jpg)
+![Profile Banner](https://github.com/sp-siam-ahmed/sp-siam-ahmed/blob/main/cover-banner.png)
 
 ## 🧑‍💻 About Me
 
