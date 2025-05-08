@@ -27,10 +27,10 @@ I am **Sp Siam Ahmed**, a passionate **Full Stack Web Developer** with expertise
 
 ## 📬 Contact Me
 
-- 📧 Email: [bzs.siam@gmail.com](mailto:bzs.siam@gmail.com)
-- 🌐 Website: [siamahmed.dev](https://siamahmed.dev)
-- 📱 Phone: +880-***-***-0223
-
+- 📧 Email: [spsiamahmed@gmail.com](spsiamahmed@gmail.com)
+- 🌐 Website: [https://about.me/spsiam](https://about.me/spsiam)
+- 📱 Phone: 01400661593
+- 💣location : Dhaka, Bangladesh 
 ## 🔗 Social Media
 
 - [Facebook](https://www.facebook.com/spsiamahmed1111)
@@ -60,3 +60,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - Continuously improve my skills in **web development** and **problem-solving**.
 - Build high-performance web applications that provide seamless user experiences.
 - Contribute to **open-source projects** and be part of the global developer community.
+### 🔑 Keywords
+
+Full Stack Web Developer, React.js Developer, Node.js Developer, MongoDB Expert, Frontend Developer, Backend Developer, JavaScript Developer, Responsive Web Design, Web Application Development, Freelance Web Developer, Open Source Contributor, Web Development Portfolio, GitHub Developer, React Developer, Express.js Developer, JavaScript Enthusiast, Node.js Backend Developer, Web Developer in Bangladesh, Website Developer, HTML/CSS Specialist, API Development, MERN Stack Developer, Front-End Web Development, Web App Developer, UI/UX Developer, Software Engineer, Web Programmer
